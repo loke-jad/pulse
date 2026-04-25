@@ -1,0 +1,7 @@
+*.md
+*.toml
+.pulse/
+*.log
+
+# Allow project docs
+!README.md
